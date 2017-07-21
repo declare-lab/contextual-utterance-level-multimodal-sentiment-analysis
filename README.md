@@ -4,13 +4,17 @@ Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Video
 ### Requirements
 Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 
+### Description
+  
+![Alt text](network.jpg?raw=true "Title")
+
+This repository contains the code for the mentioned paper. Each contextual LSTM (Figure 2 in the paper) is implemented as shown in above figure. For more details, please refer to the paper.   
+Note: Unlike the paper, we haven't used an SVM on the penultimate layer. This is in effort to keep the whole network differentiable at some performance cost.
+
 ### Dataset
 We provide results on the [MOSI dataset](https://arxiv.org/pdf/1606.06259.pdf)  
 Please cite the creators 
 
-### Description
-
-![Alt text](network.jpg?raw=true "Title")
 
 ### Input Formatting
 As data is typically present in utterance format, we combine all the utterances belonging to a video using the following code
@@ -32,7 +36,6 @@ python lstm.py --unimodal False
 
 Note: Keeping the unimodal flag as True (default False) shall train all unimodal lstms first (level 1 of the network mentioned in the paper)
 
-Note: Unlike the paper, we haven't used an SVM on the penultimate layer. This is in effort to keep the whole network differentiable at some performance cost.
 
 ### Developers
 
