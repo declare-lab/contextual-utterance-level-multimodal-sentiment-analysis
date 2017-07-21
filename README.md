@@ -17,7 +17,7 @@ We provide results on the [MOSI dataset](https://arxiv.org/pdf/1606.06259.pdf)
 Please cite the creators 
 
 
-### Input Formatting
+### Preprocessing
 As data is typically present in utterance format, we combine all the utterances belonging to a video using the following code
 
 ```
@@ -26,7 +26,7 @@ python create_data.py
 
 Note: This will create speaker independent train and test splits 
 
-### Training sc-lstm
+### Running sc-lstm
 
 Sample command:
 
