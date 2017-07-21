@@ -4,9 +4,13 @@ Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Video
 ### Requirements
 Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 
+### Dataset
+We provide results on the [MOSI dataset]{https://arxiv.org/pdf/1606.06259.pdf}
+
+Please cite the creators 
 
 ### Input Formatting
-As data is typical present in utterance format, we combine all the utterances belonging to a video using the following code
+As data is typically present in utterance format, we combine all the utterances belonging to a video using the following code
 
 ```
 python create_data.py
@@ -14,7 +18,7 @@ python create_data.py
 
 Note: This will create speaker independent train and test splits 
 
-###Training sc-lstm
+### Training sc-lstm
 
 Sample command:
 
