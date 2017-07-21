@@ -5,7 +5,8 @@ Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Video
 Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 
 ### Description
-  
+In this paper, we propose a LSTM-based model that enables utterances to capture contextual information from their surroundings in the same video, thus aiding the classification process in multimodal sentiment analysis.
+
 ![Alt text](network.jpg?raw=true "Title")
 
 This repository contains the code for the mentioned paper. Each contextual LSTM (Figure 2 in the paper) is implemented as shown in above figure. For more details, please refer to the paper.   
