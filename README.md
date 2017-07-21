@@ -8,6 +8,10 @@ Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 We provide results on the [MOSI dataset](https://arxiv.org/pdf/1606.06259.pdf)  
 Please cite the creators 
 
+### Description
+
+![Alt text](network.jpg?raw=true "Title")
+
 ### Input Formatting
 As data is typically present in utterance format, we combine all the utterances belonging to a video using the following code
 
@@ -33,10 +37,11 @@ Note: Unlike the paper, we haven't used an SVM on the penultimate layer. This is
 ### Developers
 
 #### Devamanyu Hazarika
-email: devamanyu@u.nus.edu
+email: devamanyu@u.nus.edu  
 Ph.D. Researcher at NUS, Singapore
 
-#### [Soujanya Poria]{http://sporia.info/}, Ph.D.
-email: 
+#### [Soujanya Poria](http://sporia.info/), Ph.D.
+email: sporia@ntu.edu.sg  
+
 
 
