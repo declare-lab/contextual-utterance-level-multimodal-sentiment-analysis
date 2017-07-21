@@ -37,11 +37,11 @@ Note: Unlike the paper, we haven't used an SVM on the penultimate layer. This is
 ### Developers
 
 #### Devamanyu Hazarika
-Ph.D. Researcher, NUS, Singapore
+Ph.D. Researcher, NUS, Singapore  
 email: devamanyu@u.nus.edu  
 
 #### [Soujanya Poria](http://sporia.info/), Ph.D.
-Senior Research Scientist, NTU, Singapore
+Senior Research Scientist, NTU, Singapore  
 email: sporia@ntu.edu.sg  
 
 
