@@ -5,8 +5,7 @@ Code for the paper [Context-Dependent Sentiment Analysis in User-Generated Video
 Code is written in Python (2.7) and requires Keras (2.0.6) with Theano backend.
 
 ### Dataset
-We provide results on the [MOSI dataset]{https://arxiv.org/pdf/1606.06259.pdf}
-
+We provide results on the [MOSI dataset](https://arxiv.org/pdf/1606.06259.pdf)  
 Please cite the creators 
 
 ### Input Formatting
