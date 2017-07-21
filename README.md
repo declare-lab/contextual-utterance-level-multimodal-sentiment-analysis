@@ -36,7 +36,7 @@ Note: Unlike the paper, we haven't used an SVM on the penultimate layer. This is
 email: devamanyu@u.nus.edu
 Ph.D. Researcher at NUS, Singapore
 
-#### Soujanya Poria, Ph.D.
+#### [Soujanya Poria]{http://sporia.info/}, Ph.D.
 email: 
 
 
