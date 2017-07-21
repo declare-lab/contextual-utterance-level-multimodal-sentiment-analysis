@@ -40,14 +40,14 @@ Note: Keeping the unimodal flag as True (default False) shall train all unimodal
 ### Citation 
 
 If using this code, please cite our work using : 
-'''
+```
 @inproceedings{soujanyaacl17,
   title={Context-dependent sentiment analysis in user-generated videos},
   author={Poria, Soujanya  and Cambria, Erik and Hazarika, Devamanyu and Mazumder, Navonil and Zadeh, Amir and Morency, Louis-Philippe},
   booktitle={Association for Computational Linguistics},
   year={2017}
 }
-'''
+```
 
 ### Developers
 
