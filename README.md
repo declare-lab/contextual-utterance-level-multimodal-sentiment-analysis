@@ -37,6 +37,17 @@ python lstm.py --unimodal False
 
 Note: Keeping the unimodal flag as True (default False) shall train all unimodal lstms first (level 1 of the network mentioned in the paper)
 
+### Citation 
+
+If using this code, please cite our work using : 
+'''
+@inproceedings{soujanyaacl17,
+  title={Context-dependent sentiment analysis in user-generated videos},
+  author={Poria, Soujanya  and Cambria, Erik and Hazarika, Devamanyu and Mazumder, Navonil and Zadeh, Amir and Morency, Louis-Philippe},
+  booktitle={Association for Computational Linguistics},
+  year={2017}
+}
+'''
 
 ### Developers
 
