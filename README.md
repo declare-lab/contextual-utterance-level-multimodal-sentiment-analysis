@@ -49,16 +49,5 @@ If using this code, please cite our work using :
 }
 ```
 
-### Developers
-
-#### Devamanyu Hazarika
-Ph.D. Researcher, NUS, Singapore  
-email: devamanyu@u.nus.edu  
-
-#### [Soujanya Poria](http://sporia.info/), Ph.D.
-Senior Research Scientist, NTU, Singapore  
-email: sporia@ntu.edu.sg  
-
-
 
 
